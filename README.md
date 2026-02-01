@@ -22,6 +22,6 @@ The code demonstrates:
 - branching-ratio–corrected efficiency extraction
 - CSV export for downstream analysis
 
-Input files are simplified and non-sensitive.
 
-
+Note: Input data files are not included, as they are experiment-specific.
+The code is provided for illustration of analysis logic and structure.
