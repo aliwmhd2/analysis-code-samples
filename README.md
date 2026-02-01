@@ -9,3 +9,19 @@ dummy data and are intended to demonstrate coding style and analysis approaches.
 - C++ waveform extraction from ABCD DAQ `.adr` files
 - ROOT-based analysis of HPGe detector data
 - Python analysis of GEANT4 simulation results
+
+
+## GEANT4 Distance Optimization Example
+
+This script compares experimental gamma-ray yields with GEANT4 simulations
+to determine the optimal detector–source distance using chi-square minimization.
+
+The code demonstrates:
+- detector-by-detector analysis
+- normalization of simulations to data
+- branching-ratio–corrected efficiency extraction
+- CSV export for downstream analysis
+
+Input files are simplified and non-sensitive.
+
+
